@@ -1,0 +1,77 @@
+{
+    "rotors" : [
+        {
+            "name" : "Rotor I",
+            "pattern" : "(AELTPHQXRU) (BKNW) (CMOY) (DFG) (IV) (JZ) (S)",
+            "notch" : "R"
+        },
+        {
+            "name" : "Rotor II",
+            "pattern" : "(FIXVYOMW) (CDKLHUP) (ESZ) (BJ) (GR) (NT) (A) (Q)",
+            "notch" : "F"
+            
+        },
+        {
+            "name" : "Rotor III",
+            "pattern" : "(ABDHPEJT) (CFLVMZOYQIRWUKXSG) (N)",
+            "notch" : "W"
+        },
+        {
+            "name" : "Rotor IV",
+            "pattern" : "(AEPLIYWCOXMRFZBSTGJQNH) (DV) (KU)",
+            "notch" : "K"
+        },
+        {
+            "name" : "Rotor V",
+            "pattern" : "(AVOLDRWFIUQ)(BZKSMNHYC) (EGTJPX)",
+            "notch" : "A"
+        },
+        {
+            "name" : "Rotor VI",
+            "pattern" : "(AJQDVLEOZWIYTS) (CGMNHFUX) (BPRK)",
+            "notch" : "A N"
+        },
+        {
+            "name" : "Rotor VII",
+            "pattern" : "(ANOUPFRIMBZTLWKSVEGCJYDHXQ)",
+            "notch" : "A N"
+        },
+        {
+            "name" : "Rotor VIII",
+            "pattern" : "(AFLSETWUNDHOZVICQ) (BKJ) (GXY) (MPR)",
+            "notch" : "A N"
+        }
+    ],
+    "reflectors" : [
+        {
+            "name" : "Reflector B",
+            "pattern" : "(AY) (BR) (CU) (DH) (EQ) (FS) (GL) (IP) (JX) (KN) (MO) (TZ) (VW)"
+        
+        },
+        {
+            "name" : "Reflector C",
+            "pattern" : "(AF) (BV) (CP) (DJ) (EI) (GO) (HY) (KR) (LZ) (MX) (NW) (TQ) (SU)"
+        
+        },
+        {
+            "name" : "Reflector B Dunn",
+            "pattern" : "(AE) (BN) (CK) (DQ) (FU) (GY) (HW) (IJ) (LO) (MP) (RX) (SZ) (TV)"
+        
+        },
+        {
+            "name" : "Reflector C Dunn",
+            "pattern" : "(AR) (BD) (CO) (EJ) (FN) (GT) (HK) (IV) (LM) (PW) (QZ) (SX) (UY)"
+        
+        }
+    ],
+    "plugboards" : [
+        {
+            "name" : "Custom Plugboard 1",
+            "pattern" : "(WE)(MS)(AK)"
+        },
+        {
+            "name" : "Custom Plugboard 2",
+            "pattern" : "(BT)(OP)(AL)"
+        }
+    ]
+}
